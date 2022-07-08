@@ -4,11 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/drawable/ic_about.xml" value="0.216" />
+        <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/drawable/ic_crud.xml" value="0.204" />
+        <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/drawable/ic_web.xml" value="0.204" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/activity_main.xml" value="0.2391304347826087" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/activity_splash_screen.xml" value="0.2391304347826087" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/fragment_about.xml" value="0.2391304347826087" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/fragment_crud.xml" value="0.2391304347826087" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
+        <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/layout/fragment_web.xml" value="0.2391304347826087" />
         <entry key="..\:/Multimedia/Project/Android/Kulinerr311910807/app/src/main/res/menu/menu_bawah.xml" value="0.259375" />
       </map>
     </option>

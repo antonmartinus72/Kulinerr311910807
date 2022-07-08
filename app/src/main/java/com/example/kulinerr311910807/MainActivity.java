@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
                         FR = new HomeFragment();
                         getSupportActionBar();setTitle("Home");
                         break;
-                    case R.id.menu_crud:
-                        FR = new CrudFragment();
-                        getSupportActionBar();setTitle("Crud");
+                    case R.id.menu_web:
+                        FR = new WebFragment();
+                        getSupportActionBar();setTitle("Web");
                         break;
                     case R.id.menu_about:
                         FR = new AboutFragment();
